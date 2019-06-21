@@ -10,6 +10,9 @@ namespace TechnicalTest
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Press enter to close...");
+            Console.ReadLine();
         }
     }
 }
