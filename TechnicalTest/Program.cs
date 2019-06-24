@@ -69,7 +69,8 @@ namespace TechnicalTest
                         Console.WriteLine("2 pressed");
                       break;
                     case "3":
-                        Console.WriteLine("2 pressed");
+                        Console.WriteLine("3 pressed");
+                        //print out fizzbuzz?
                         break;
                 }
 
